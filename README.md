@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mustafa0831
 - 👀 I’m interested in Golang, Js
-- 🌱 I’m currently learning Django, React
+- 🌱 I’m currently learning Microsevices, React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
