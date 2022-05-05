@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/channels/@me)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/channels/@mus11110#3832)
 [![](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mr.mus0831@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/Ustaz_Mustafa)
 [![Views](https://komarev.com/ghpvc/?username=Mustafa0831&style=flat&color=blueviolet&label=Views)](https://github.com/Mustafa0831)
